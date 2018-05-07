@@ -1,0 +1,4 @@
+application\AppConfig.class
+application\CORSFilter.class
+application\AppInitializer.class
+controller\UploadController.class
